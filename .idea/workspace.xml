@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1705c8b5-4817-4b61-915d-5ad6bb4b9d12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/controllers/pages_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/posts_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/javascript/elements/turbolinks_frame.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/javascript/fake_dist/turbolinks/browser_adapter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/javascript/fake_dist/turbolinks/controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/javascript/fake_dist/turbolinks/error_renderer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/javascript/fake_dist/turbolinks/fetch_request.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/javascript/fake_dist/turbolinks/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/javascript/helpers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/javascript/initializers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/javascript/initializers/page_updates.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/javascript/lib/page-updater/commands.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/javascript/lib/page-updater/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/javascript/lib/page-updater/templates.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/javascript/lib/page-updater/update.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/javascript/lib/page-updater/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/pages/me.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/pages/root.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/posts/_post.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/renderer.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +137,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593464171539</updated>
-      <workItem from="1593464172983" duration="3591000" />
+      <workItem from="1593464172983" duration="3664000" />
     </task>
     <servers />
   </component>
@@ -168,9 +149,9 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="703" y="290" width="596" height="522" key="find.popup/0.23.1920.1057@0.23.1920.1057" timestamp="1593466237027" />
-    <state x="666" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1593467740651">
+    <state x="666" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1593467822535">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="666" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1920.1057@0.23.1920.1057" timestamp="1593467740651" />
+    <state x="666" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1920.1057@0.23.1920.1057" timestamp="1593467822535" />
   </component>
 </project>
